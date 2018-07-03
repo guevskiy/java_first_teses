@@ -6,6 +6,8 @@
       <module name="java-selenium-course-tests_test" target="1.8" />
       <module name="sandbox_main" target="1.8" />
       <module name="sandbox_test" target="1.8" />
+      <module name="start-fromClear_main" target="1.8" />
+      <module name="start-fromClear_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

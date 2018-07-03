@@ -9,6 +9,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/java-selenium-course-tests" />
+            <option value="$PROJECT_DIR$/java-selenium-course-tests/start-fromClear" />
           </set>
         </option>
         <option name="useAutoImport" value="true" />
