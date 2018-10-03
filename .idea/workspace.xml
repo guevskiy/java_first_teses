@@ -2,11 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a39b8f1-9159-4c4b-a6da-f91c65dc1869" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/sandbox/out/production/classes/MyFirstProgram.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/first-test-java/.idea/.name" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/first-test-java/.idea/compiler.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/first-test-java/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/first-test-java/.idea/libraries/Maven__com_google_code_gson_gson_2_8_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/first-test-java/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_0_18.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/first-test-java/.idea/libraries/Maven__com_google_guava_guava_23_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/first-test-java/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/first-test-java/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/first-test-java/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/first-test-java/.idea/libraries/Maven__junit_junit_4_10.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/first-test-java/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_5.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/first-test-java/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/first-test-java/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/first-test-java/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/first-test-java/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/first-test-java/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/first-test-java/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_8_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/first-test-java/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_8_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/first-test-java/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_8_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/first-test-java/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_8_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/first-test-java/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_8_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/first-test-java/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_8_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/first-test-java/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_8_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/first-test-java/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_8_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/first-test-java/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_8_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/first-test-java/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_8_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/first-test-java/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/first-test-java/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/first-test-java/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/first-test-java/first-test-java.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/first-test-java/pom.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/first-test-java/src/test/java/com/gmail/guevskiyart/Base.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/first-test-java/src/test/java/com/gmail/guevskiyart/FirstTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/first-test-java/src/test/java/com/gmail/guevskiyart/Page.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/first-test-java/target/test-classes/com/gmail/guevskiyart/Base.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/first-test-java/target/test-classes/com/gmail/guevskiyart/FirstTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/first-test-java/target/test-classes/com/gmail/guevskiyart/Page.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sandbox/src/main/java/com/step/by/step/MyFirstProgram.java" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/sandbox/.gradle/" />
     <ignored path="$PROJECT_DIR$/sandbox/build/" />
@@ -40,7 +74,7 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -49,7 +83,7 @@
     <option name="myGradleHomes">
       <map>
         <entry key="$PROJECT_DIR$/java-selenium-course-tests" value="C:\Users\Artem Guevskiy\.gradle\wrapper\dists\gradle-4.8-bin\divx0s2uj4thofgytb7gf9fsi\gradle-4.8" />
-        <entry key="$PROJECT_DIR$/sandbox" value="E:\Tools\gradle-4.8" />
+        <entry key="$PROJECT_DIR$/sandbox" value="C:\Users\Artem Guevskiy\.gradle\wrapper\dists\gradle-4.8-bin\divx0s2uj4thofgytb7gf9fsi\gradle-4.8" />
       </map>
     </option>
     <option name="myGradleVersions">
@@ -472,12 +506,12 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$/java-selenium-course-tests" value="4589017189822" />
+        <entry key="$PROJECT_DIR$/java-selenium-course-tests" value="4615696637993" />
         <entry key="$PROJECT_DIR$/java-selenium-course-tests/build.gradle" value="2881783744" />
         <entry key="$PROJECT_DIR$/java-selenium-course-tests/gradle/wrapper/gradle-wrapper.properties" value="2007532874" />
         <entry key="$PROJECT_DIR$/java-selenium-course-tests/settings.gradle" value="2496576723" />
         <entry key="$PROJECT_DIR$/java-selenium-course-tests/start-fromClear/build.gradle" value="2884232887" />
-        <entry key="$PROJECT_DIR$/sandbox" value="3056938661386" />
+        <entry key="$PROJECT_DIR$/sandbox" value="3077131092003" />
         <entry key="$PROJECT_DIR$/sandbox/build.gradle" value="910243767" />
         <entry key="$PROJECT_DIR$/sandbox/gradle/wrapper/gradle-wrapper.properties" value="2007532874" />
       </map>
@@ -702,7 +736,7 @@
       <map>
         <entry key="E:/My documents/Книги PDF/selenium-webdriver/День 10. PageObjects и другие шаблоны проектирования/selenium-training-po-master/java-example" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/java-selenium-course-tests" value="RE_IMPORT" />
-        <entry key="$PROJECT_DIR$/sandbox" value="IMPORT" />
+        <entry key="$PROJECT_DIR$/sandbox" value="RE_IMPORT" />
       </map>
     </option>
   </component>
@@ -713,7 +747,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -737,33 +771,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="sandbox" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-selenium-course-tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="sandbox" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-selenium-course-tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sandbox" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.3034483" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/java-selenium-course-tests/build.gradle" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/sandbox/src/main/java" />
   </component>
   <component name="RecentsManager">
@@ -916,11 +945,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -944,6 +972,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1035,13 +1064,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-selenium-course-tests/start-fromClear/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/java-selenium-course-tests/start-fromClear/build.gradle" />
     <entry file="file://$PROJECT_DIR$/java-selenium-course-tests/settings.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -1050,19 +1073,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sandbox/out/production/classes/MyFirstProgram.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/out/production/classes/MyFirstProgram.class" />
     <entry file="file://$PROJECT_DIR$/sandbox/out/production/classes/com/step/by/step/MyFirstProgram.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
