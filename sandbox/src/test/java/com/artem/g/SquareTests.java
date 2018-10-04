@@ -19,7 +19,13 @@ public class SquareTests {
     @Test
     public void testArea_03() {
         Square s = new Square(8);
-        Assert.assertEquals(s.area(), 64);
+        Assert.assertEquals(s.area(), 63);
+    }
+
+    @Test
+    public void testArea_04() {
+        Square s = new Square(10);
+        Assert.assertEquals(s.area(), 100);
     }
 
 }
