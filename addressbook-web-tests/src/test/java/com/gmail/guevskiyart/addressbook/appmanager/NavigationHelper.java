@@ -11,6 +11,7 @@ public class NavigationHelper {
     }
 
     public void gotoGroupPage() {
+        System.out.println(driver.manage().window().getSize());
         driver.findElement(By.linkText("groups")).click();
     }
 }
