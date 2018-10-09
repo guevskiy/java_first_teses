@@ -21,6 +21,8 @@ public class ApplicationManager{
         driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
         //driver. get("http://allintradeone.com/app");
         driver. get("http://addressbook:8087/index.php");
+        driver.manage().window().maximize();
+        System.out.println(driver.manage().window().getSize());
         groupHelper = new GroupHelper(driver);
         navigationHelper = new NavigationHelper(driver);
         sessionHelper = new SessionHelper(driver);
