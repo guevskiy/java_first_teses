@@ -17,7 +17,7 @@ public class NavigationHelper {
 
     public void gotoGroupPage() {
         File tmp = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
-        File screen = new File("Screen-" + System.currentTimeMillis() + ".png");
+        File screen = new File("Screenshots/Screen-" + System.currentTimeMillis() + ".png");
         try {
             Files.copy(tmp, screen);
         } catch (IOException e) {
