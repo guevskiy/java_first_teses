@@ -16,6 +16,10 @@ public class NavigationHelper {
     }
 
     public void gotoGroupPage() {
+        driver.findElement(By.linkText("groups")).click();
+    }
+
+    public void takeScreenshot() {
         File tmp = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
         File screen = new File("Screenshots/Screen-" + System.currentTimeMillis() + ".png");
         try {
@@ -23,10 +27,12 @@ public class NavigationHelper {
         } catch (IOException e) {
             e.printStackTrace();
         }
+    }
 
+    public String getWindowSize() {
         String str = driver.manage().window().getSize().toString();
         System.out.println(str);
-        driver.findElement(By.linkText("groups")).click();
+        return str;
     }
 
 }

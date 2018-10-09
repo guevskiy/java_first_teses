@@ -12,3 +12,4 @@ libs/
 *.iml
 build/
 *.log
+*.png
